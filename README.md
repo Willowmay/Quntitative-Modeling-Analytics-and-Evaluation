@@ -1,7 +1,9 @@
 # Quntitative-Modeling-Audience-Analytics-and-Evaluation
 
 Target: Developing a quantitative measure of audience engagement using real TV transactional data;
+       
         Isolating noisy factors;
+        
         Understand the relationship between independent variables;
 
 
